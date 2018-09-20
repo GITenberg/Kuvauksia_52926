@@ -1,0 +1,34 @@
+_repo: Kuvauksia_52926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järvi, K. A. (Kaarlo August)
+    aliases:
+    - Jarvi, K. A. (Kaarlo August)
+    - Järvi, Karl August
+    - Mällinen, Carl August
+    - Mallinen, Carl August
+    - Järvi, Kaarlo August
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '44518'
+    url: http://www.gutenberg.org/2009/agents/44518
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52926'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Pari päivää Strauchin perheessä -- Elsa ja hänen tyttärensä -- Lapsuuden
+  ystävät -- Sanomalehti-puuha -- Raittiuspakotusta -- Raittiuspuuhissa -- Helmikuun
+  ruusu -- Köyhä äiti.
+title: Kuvauksia
+url: http://www.gutenberg.org/ebooks/52926
